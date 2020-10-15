@@ -81,14 +81,12 @@ To be freaking jolly!
 | Hello | There |
 
 ```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+Crazy little thing called love
 ``` 
 Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote. 
 
 <a href="#heading-ids">Heading IDs</a>
+
+tabl
